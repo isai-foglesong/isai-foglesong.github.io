@@ -6,7 +6,7 @@
     "email": "isai@hawaii.edu",
     "phone": "808-333-2803",
     "website": "https://isai-foglesong.github.io",
-    "summary": "I am studying for a B.S.E in Computer Engineering in the Department of Engineering at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "summary": "I am studying for a B.S in Computer Engineering in the Department of Engineering at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "location": { "address": "", "postalCode": "96786", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "isai-foglesong", "url": "http://github.com/isai-foglesong" },
