@@ -1,26 +1,26 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Isai Foglesong",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://avatars.githubusercontent.com/u/71203580?s=400&u=88795278c78b914305bad0b4030cb5c1c12e85d8&v=4",
+    "email": "isai@hawaii.edu",
+    "phone": "808-333-2803",
+    "website": "https://isai-foglesong.github.io",
+    "summary": "I am studying for a B.S.E in Computer Engineering in the Department of Engineering at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": { "address": "", "postalCode": "96786", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "isai-foglesong", "url": "http://github.com/isai-foglesong" },
+      { "network": "linkedin", "username": "isai-foglesong", "url": "http://linkedin.com/in/isai-foglesong" },
+      { "network": "twitter", "username": "isaibowl", "url": "http://twitter.com/changeme" },
+      { "network": "instagram", "username": "isaibowl", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
+    { "name": "Circuit Design" },
+    { "name": "Auto CAD" },
+    { "name": "Software Engineering" },
     { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "3D Printing" }
   ],
   "skills": [
     {
