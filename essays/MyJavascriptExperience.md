@@ -14,13 +14,9 @@ labels:
 ## Starting Out
 Javascript has been the most simple of all languages to learn. Following the Free Code Camp tutorial it was quickly apparent that this was gonna be a simpler language to learn with intuitive features. Something as simple as defining variables is much simpler in Javascript compared to any other language I've had the pleasure of learning at an surface level. Now going back to other programming languages in other classes, I find myself missing the Let keyword.
 
-## In the context of programming
+## Past Experiences
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
+It's still not clear to me if Javascript is just simpler and easier to learn because its more lax and seemingly intuitive design, or perhaps because I've struggled with other languages very often that with every new language I manage to pick it up quicker and quicker. Regardless the relative ease that came with picking up javascript for a surface level understanding, really makes me want to continue learning and expanding upon this knowledge and seeing what I can make. To give credit where it's due, the structure of the WODs, the free code camp, and enthusiasm of my instructor play a key role in my desire to learn and improve and welcome this challenge. This skill and the professionalism that accompanies it, makes me feel like I'm getting a lot out of this class and I should really try my best and follow as much as possible.
 
 ## In the context of engineering
 
