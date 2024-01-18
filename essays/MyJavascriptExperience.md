@@ -32,12 +32,6 @@ Regardless Javascript is an indispensable language to learn due to its native br
 
 ## The athletic teaching style
 
+In a previous year I took an algorithms course that taught in a flipped classroom model. It didn't go well for me, due to a heavy workload from my extra curricular and school load it led to bad practices and having a hard time learning much. It very much focused and honed in on the idea of studying as much as possible and having questions to ask and learn about during lecture. The athletic software engineering reminds me a lot of this class model, although it feels much better. It's still very early in the semester, but I've found that I enjoy learning in this class and trying much harder then the previous class. There's plenty of reasons for this motivation as I mentioned before in my past experiences, but a key difference is the WODS and fun activities.
 
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+In the previous algorithms course we were expected to learn everything from the textbook and understand and dissect it in homework. Although I'm sure a lot can be learned through a textbook, the fact of the matter is that for me personally, it overloads my brain quickly and like a sponge full of water, I have a very hard time intaking more information. This is a fault of my own that I should strive to improve. For some reason though, this class with its teaching style does empower my creativity and maybe the brutal honesty of how difficult it is lets me know I can't be lazy now. Hence I'm thoroughly enjoying the current learning style and believe I will continue to enjoy it. I hope to learn lots this semester and have something to show for it by the end.
