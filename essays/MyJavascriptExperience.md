@@ -9,8 +9,6 @@ labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
-
 ## Starting Out
 Javascript has been the most simple of all languages to learn. Following the Free Code Camp tutorial it was quickly apparent that this was gonna be a simpler language to learn with intuitive features. Something as simple as defining variables is much simpler in Javascript compared to any other language I've had the pleasure of learning at an surface level. Now going back to other programming languages in other classes, I find myself missing the Let keyword.
 
