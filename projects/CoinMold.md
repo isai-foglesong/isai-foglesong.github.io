@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/CoinInSand.jpg
+image: img/CoinInSandNew.jpg
 title: "Manufacturing Coins"
 date: 2023
 published: true
