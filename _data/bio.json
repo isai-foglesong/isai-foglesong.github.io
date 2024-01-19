@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96786", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "isai-foglesong", "url": "http://github.com/isai-foglesong" },
-      { "network": "linkedin", "username": "isai-foglesong", "url": "http://linkedin.com/in/isai-foglesong" },
+      { "network": "linkedin", "username": "isai-foglesong", "url": "https://www.linkedin.com/in/isai-foglesong-a2aaab208/" },
       { "network": "twitter", "username": "isaibowl", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "isaibowl", "url": "http://instagram.com/changeme" }
     ]
