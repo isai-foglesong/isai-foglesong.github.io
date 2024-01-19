@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/CoinInSandNew.jpg
+image: img/UHE_Logo.png
 title: "An Ongoing Responsibility"
 date: Ongoing
 published: true
