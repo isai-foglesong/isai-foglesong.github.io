@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/CoinInSandNew.jpg
+image: img/UHE_Logo.png
 title: "Manufacturing Sellable Coins"
 date: 2023
 published: true
