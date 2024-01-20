@@ -24,6 +24,8 @@ I began with the legs, everything would essentially have to be built off the leg
   <img width="500px" src="../img/bunkbed-In-Progress.jpg" class="center" >
 </div>
 
+Building the bunkbed wasn't too difficult. Thankfuly I have access to a drop and table saw to help cut the large plywood pieces. By getting the measurements straight from fusion 360 and cutting everything to size first, we assembled everything inside the room it would stay in. Minor adjustments were made, like the edition of 2 extra legs to help brace the 2 large plywood pieces in the back. Before assembling I sanded down all the wood, and once assembled applied a few coats of wood finish. I was very happy with the final result which gave me lots of extra storage space for clothes and knick knacks. My twin size bed fit very snug, and it was over.
+
 
 
 
