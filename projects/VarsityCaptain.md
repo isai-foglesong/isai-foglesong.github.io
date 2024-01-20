@@ -8,7 +8,7 @@ published: true
 labels:
   - Leadership
   - Teamwork
-  - Responsibility 
+  - Budgeting 
 summary: "This Project is an ongoing experience as a Collegiate Esports Captain and Player. The difficulties, the good the bad, and the many things I've learned."
 ---
 
