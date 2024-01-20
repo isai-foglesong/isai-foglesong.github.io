@@ -13,7 +13,7 @@ labels:
 summary: "The process of going from a 3d printed coin to a full metal replica"
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/CoinInSandNew.jpg">
+<img width="320px" class="rounded float-start pe-4" src="../img/CoinInSandNew.jpg">
 
 Around the summer of 2022 I really got into these youtube videos where people would go into junkyards, find appliances, and strip them of as much metal as possible. There was this real powerful feeling of heating up something so hot it melts and you make it into something of your own. I've been really into manufacturing for a while, my favorite being additive manufacturing otherwise known as 3d printing. I've researched and look into metallic 3d printers for a while but they're all quite expensive and use special metallic powders that are very dangerous to breath in. So I researched and came up with multiple possible ways each with their own pros and cons.
 
