@@ -23,10 +23,10 @@ labels:
   Relevance is key to a good questions, they must be directly related and stay on the topic without going off to different problems. These questions should also be clear and specific enough to avoid ambiguous answers, or answers that aren't helpful. Prior to asking a question, doing preliminary research is just due diligence to make sure your question isn't one google search away. This also shows initiative and respect for others’ time which anyone appreciates. Questions should also aim to build knowledge and understanding and not just seek quick fixes with the goal of copying and pasting code.
 
 ## 4. Analyzing a Smart Questions and responses
-[SmartQuestion](https://stackoverflow.com/questions/7837456/how-to-compare-arrays-in-javascript)
-  The following question is what I'd call a smart question. It might not hit all the criteria, but it does ask a question that gets a lot of answers and people in the community to add to it. Also the question publisher does mention how he knows a way to solve his problem but he's looking for a faster solution. The answer given also does a good job of giving examples and comments explaining what the code does for anyone to learn from. Which comes from a good question. As the quality of responses usually mirrors the thoughtfulness of the question. The quality of responses often mirrors the thoughtfulness of the question.
+  [SmartQuestion](https://stackoverflow.com/questions/7837456/how-to-compare-arrays-in-javascript)
+  
+  The following question is what I'd call a smart question. It might not hit all the criteria, but it does ask a question that gets a lot of answers and people in the community to add to it. Also the question publisher does mention how he knows a way to solve his problem but he's looking for a faster solution. The answer given also does a good job of giving examples and comments explaining what the code does for anyone to learn from. Which comes from a good question. As the quality of responses usually mirrors the thoughtfulness of the question. The quality of responses often mirrors the thoughtfulness of the question. The criteria it might not be able to quite hit is the due diligence, I'm sure he did some research, but all he really gave was code he knew wouldn't work. The actual answer was way more code then he even attempted.
 
-## Understanding What Makes Up a Bad Question
 
 
 
