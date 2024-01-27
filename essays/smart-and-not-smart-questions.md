@@ -9,6 +9,7 @@ labels:
   - Engineering
 ---
 <img width="320px" class="rounded float-start pe-4" src="../img/stackoverflow-1.png">
+
 ## Abstract
   The realm of software engineering is not just about coding; it's equally about communication, particularly the ability to ask 'smart' questions. This essay explores the significance of smart questioning in software engineering, analyzes how well-chosen questions adhere to the principles of smart questioning, examines the nature of responses elicited, and reflects on the insights gained from this practice.
 
