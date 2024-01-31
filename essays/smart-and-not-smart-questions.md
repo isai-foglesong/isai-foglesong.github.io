@@ -27,6 +27,8 @@ labels:
   
   The following question is what I'd call a smart question. It might not hit all the criteria, but it does ask a question that gets a lot of answers and people in the community to add to it. Also the question publisher does mention how he knows a way to solve his problem but he's looking for a faster solution. The answer given also does a good job of giving examples and comments explaining what the code does for anyone to learn from. Which comes from a good question. As the quality of responses usually mirrors the thoughtfulness of the question. The quality of responses often mirrors the thoughtfulness of the question. The criteria it might not be able to quite hit is the due diligence, I'm sure he did some research, but all he really gave was code he knew wouldn't work. The actual answer was way more code then he even attempted.
 
+  ## Making changes in example essay for homework
+
 
 
 
