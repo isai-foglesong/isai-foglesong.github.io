@@ -8,7 +8,7 @@ published: true
 labels:
   - Engineering
 ---
-<img width="320px" class="rounded float-start pe-4" src="../img/stackoverflow-1.png">
+<img width="320px" class="rounded float-start pe-4" src="../img/ESLint_logo.svg.png">
 
 ## Abstract
   The use of ESLint, and the broader topic of coding standards, is crucial for software engineering. This essay aims to explore the significance of ESLint within the software development, while also highlighting my personal experience in using it, and frustrating aspects.
