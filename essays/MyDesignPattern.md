@@ -11,7 +11,7 @@ labels:
 
 <img width="320px" class="rounded float-start pe-4" src="../img/SingletonFlow.png">
 
-*Design patterns are a fundamental part of software development, they provide typical solutions to commonly recurring problems in software design.*
+*"Design patterns are a fundamental part of software development, they provide solutions to commonly recurring problems in software design." Paraphrased from Pattern.dev*
 
 ## Following the Flow of the Program
 
