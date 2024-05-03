@@ -12,7 +12,7 @@ labels:
 <img width="320px" class="rounded float-start pe-4" src="../img/ChatGPT.jpg">
 
 ### I. Introduction
-AI is a rapdily evolving technology achieving incredible things in the creative sector and a overall proving to be another tool to be used in Education. In specific to Software Engineering it's a helpful used in different forms, such as github co-pilot. Personally I've used it to solve recurring problems or creating certain functions, to optimize already existing code with some success, and also to provide some creative feedback on how a webpage could be structured or giving team names and images. All using Chat-gpt and its image generator as well.
+AI is a rapdily evolving technology achieving incredible things in the creative sector and a overall proving to be another tool to be used in Education. In specific to Software Engineering it's a helpful tool used in different forms, such as github co-pilot. Personally I've used it to solve recurring problems or creating certain functions, to optimize already existing code with some success, and also to provide some creative feedback on how a webpage could be structured or giving team names and images. All using Chat-gpt and its image generator as well.
 
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
