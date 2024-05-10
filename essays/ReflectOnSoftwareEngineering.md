@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "AI, More Harm or More Good?"
+title: "ICS314 Better Then Expected"
 # All dates must be YYYY-MM-DD format!
-date: 2024-05-02
+date: 2024-05-09
 published: true
 labels:
   - Engineering
