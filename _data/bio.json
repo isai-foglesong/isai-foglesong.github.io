@@ -3,16 +3,15 @@
     "name": "Isai Foglesong",
     "label": "Student",
     "picture": "https://avatars.githubusercontent.com/u/71203580?s=400&u=88795278c78b914305bad0b4030cb5c1c12e85d8&v=4",
-    "email": "isai@hawaii.edu",
+    "email": "isai.mexina@gmail.com",
     "phone": "808-333-2803",
     "website": "https://isai-foglesong.github.io",
     "summary": "I am studying for a B.S in Computer Engineering in the Department of Engineering at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96786", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "203 Kilea Place", "postalCode": "96786", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "isai-foglesong", "url": "http://github.com/isai-foglesong" },
       { "network": "linkedin", "username": "isai-foglesong", "url": "https://www.linkedin.com/in/isai-foglesong-a2aaab208/" },
-      { "network": "twitter", "username": "isaibowl", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "isaibowl", "url": "http://instagram.com/changeme" }
+      { "network": "instagram", "username": "isaibowl", "url": "https://www.instagram.com/isaibowl/" }
     ]
   },
   "interests": [
