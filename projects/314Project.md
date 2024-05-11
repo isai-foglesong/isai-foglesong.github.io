@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/JustBunkImage1.PNG
+image: img/RecCenterLandingPage.png
 title: "Making Rec Center Warriors Website"
 date: 2024
 published: true
